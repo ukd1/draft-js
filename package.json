@@ -42,7 +42,7 @@
     "del": "^2.2.0",
     "envify": "^3.4.0",
     "es6-shim": "^0.34.4",
-    "eslint": "^1.5.1",
+    "eslint": "^7.9.0",
     "eslint-plugin-react": "^3.2.2",
     "fbjs-scripts": "^0.6.0-alpha.1",
     "flow-bin": "^0.22.1",
